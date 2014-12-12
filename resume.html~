@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Resume </title>
+</head>
+<meta charset="utf-8">
+<link rel= "stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Nixie+One' rel='stylesheet' type='text/css'>
+
+<style>
+
+body {
+ font-size:100%;
+ font-family: 'Nixie One', cursive;
+
+}
+#customFont {
+  	font-family: 'Nixie One', cursive;
+
+}
+</style>
+	
+}
+</style>
+
+	<div id="header">
+
+	<p id="name">Gabrielle Homola</p>
+
+         <a href="mailto:gh564888@sju.edu" target="_blank"><p id="email">gh564888@sju.edu</p></a>
+
+         <p id="contact">8452226278</p>
+
+     </div>
+
+     <div>
+     
+
+<h2>Expierience and Employment</h2>
+
+            <p>
+
+            <ul>
+
+                <li>Brownstein Group Intern</li>
+
+                <li>Garrison Golf Course</li>
+
+                <li>Frozen Berry Icecream </li>
+
+                <li>Stonecrop Garden Intern</li>
+            
+            </ul>
+
+            </p>
+
+<h3>Volunteer and Community Work</h3>
+            
+            <p>
+            
+            <ul>
+
+            	<li>Serve homeless at St. Columba’s Homeless Shelter</li>
+
+            	<li>Competed internationally in Irish Step Dance competitions. Represented the Kelly Oster Dance School at the North American Nationals, All Ireland Nationals, Great Britain Championships, Mid- Atlantic Regionals. 2004-2011</li>
+
+            	<li>Performed for fundraisers attended by former New York Senator Vincent Liebell and former New York Governor George Pataki.</li>
+            	
+            	<li>Performed for charities to include, senior citizen homes, Relay for Life, and Girl Scouts of America.</li>
+            </ul>
+
+            </p>
+
+<h4>Skills</h4>
+            
+            <p>
+            
+            <ul>
+
+                <li>Proficient in Social Media Applications and WordPress. </li>
+
+                <li>Computer Savvy on Mac, Windows and Microsoft applications. </li>
+                
+            </ul>
+
+            </p>
+
+<h3>Educational Qualifications</h3>
+
+            <p>
+            
+            <ul>
+
+            <li>Communications Major:</li>
+
+            <li>Saint Joseph's University 2015</li>
+             
+            </ul>
+            
+            </p>
+
+
+</head>                    
+</section>
+</body>
+</html>	
