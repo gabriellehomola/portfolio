@@ -1,0 +1,108 @@
+
+#mainHeading {
+	font-family: 'Poiret One', cursive;	
+	font-size: 4.5em;
+	margin: 2%;
+	color:black;
+	padding-top: 11.5%;
+	padding-bottom: .1%;
+}
+.homepage{
+	background-image: url("gabmodel.jpg");
+
+	
+}
+
+#tabContainer {
+	display: horizontal;
+	padding-bottom: .5%;
+	text-decoration: none;
+	padding-top:.5%;
+	font-family: 'Poiret One', cursive;
+	color: green;
+	font-size: 2em;
+	float: right;
+}
+#resume {
+	font-family: 'Poiret One', cursive;	
+	width: 80%;
+	color: black;
+	margin: 2%;
+	text-decoration: none;
+}
+	
+#tabbies {
+	display: horizontal;
+	padding-bottom: .5%;
+	text-decoration: none;
+	padding-top:.5%;
+	font-family: 'Poiret One', cursive;
+	
+	font-size: 2em;
+	float: right;
+	
+}
+
+#header {
+	 font-family: 'Poiret One', cursive;	
+	font-size: 4.5em;
+	margin: 2%;
+	color:black;
+	padding-top: 3%;
+	padding-bottom: .1%;
+}
+.resumepage {
+	
+	
+	
+}
+#contact {
+	font-family: 'Poiret One', cursive;	
+	font-size: 2em;
+	width: 100%;
+	color: black;
+	padding-top: 5%;
+	padding-bottom: 80%;
+	padding-right: 20%;
+	background-size: 85%;
+	background-image: url("nyc.jpg");
+	background-repeat: no-repeat;
+	
+}
+#tabs {
+	display: horizontal;
+	padding-bottom: 50%;
+	text-decoration: none;
+	padding-top:20%;
+	font-family: 'Poiret One', cursive;
+	font-size: 1em;
+	float: right;
+	color: black;
+}
+
+#aboutme {
+	font-family: 'Poiret One', cursive;	
+	width: 100%;
+	color: black;
+	background-image: url(".jpg");
+	padding-top: 5%;
+	padding-bottom: 80%;
+	padding-right: 20%;
+	background-image: url("aboutme.jpg");
+	background-size: 95%
+}
+.about {
+	background-image: url("aboutme.jpg");
+
+}
+#tabContainers {
+	display: horizontal;
+	padding-bottom: .5%;
+	text-decoration: none;
+	padding-top:.5%;
+	font-family: 'Poiret One', cursive;
+	color: green;
+	font-size: 2em;
+	float: right;
+}
+	
